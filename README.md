@@ -1,7 +1,7 @@
 # Evaluating the NHS Diabetes Prevention Programme
 ## Modelling the long term cost-effectiveness of the NHS Diabetes Prevention Programme
 
-To run the model code, you will need to change the repository in the R files which is highlighted with ## ADD REPOSITORY ##
+To run the model code, you will need to change the directory in the R files which is highlighted with ## SET WORKING DIRECTORY ##
 
 R files including in the repository:
 
