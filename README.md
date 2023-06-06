@@ -8,6 +8,8 @@ R files including in the repository:
 2) SA1 Analysis - DPP effect for 10 years
 3) SA2 Analysis - DPP effect for 15 years
 4) SA3 Analysis - Using costs from Roberts et al
+5) SA4 Analysis - Using US DPP trial data
+
 
 This research was funded by the National Institute for Health and Care Research (The Health and Social Care Delivery Research (HSDR) Programme, 16/48/07 – Evaluating the NHS Diabetes Prevention Programme (NHS DPP): the DIPLOMA research programme (Diabetes Prevention – Long Term Multimethod Assessment)).  
 
