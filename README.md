@@ -18,7 +18,7 @@ Software versions: RStudio 2022.02.3 Build 492 for Windows, R version 4.3.0
 Author: Emma McManus, Research Fellow in Health Economics, University of Manchester, emma.mcmanus@manchester.ac.uk
 
 The model is described in the following publication(s):
-- NIHR Report
-- Manuscript
+- NIHR Report [Under Review]
+- Manuscript [Under Review]
 			
 			
