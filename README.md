@@ -10,6 +10,7 @@ R files including in the repository:
 4) SA3 Analysis - Using costs from Roberts et al
 5) SA4 Analysis - Using US DPP trial data
 6) SA5 Analysis - NAVIGATOR trial data
+7) SA6 Analysis - Different T2D utility scores
 
 
 This research was funded by the National Institute for Health and Care Research (The Health and Social Care Delivery Research (HSDR) Programme, 16/48/07 – Evaluating the NHS Diabetes Prevention Programme (NHS DPP): the DIPLOMA research programme (Diabetes Prevention – Long Term Multimethod Assessment)).  
